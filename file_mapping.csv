@@ -1,0 +1,6 @@
+FileOrigin,FileDestination
+.\files\DotNet.ps1,C:\Windows\Temp\DotNet.ps1
+.\files\UWScript.ps1,C:\Windows\Setup\Scripts\UWScript.ps1
+.\files\UWScriptShortcut.ps1,C:\Windows\Temp\UWScriptShortcut.ps1
+.\files\User Customization.ps1,C:\Users\Default\User Customization.ps1
+.\files\LayoutModification.xml,C:\Users\Default\AppData\Local\Microsoft\Windows\Shell\LayoutModification.xml
